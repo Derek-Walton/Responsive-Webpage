@@ -22,11 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop view
-![desktop view screenshot](./my-design/desktop-view.png)
+### Desktop view
+![desktop view screenshot](./my-design/desktop-view2.png)
 
-Mobile view
-![mobile view screenshot](./my-design/mobile-view.png)
+### Mobile view
+![mobile view screenshot](./my-design/mobile-view2.png)
 
 ## My process
 
@@ -45,7 +45,7 @@ Using media queries to accomodate for different screen sizes and adjust content 
     main{
         flex-direction: column;
         width: 90%;
-        height: 70%;
+        height: 50%;
     }
 }
 ```
