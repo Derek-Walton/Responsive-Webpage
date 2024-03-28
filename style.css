@@ -105,7 +105,8 @@ button:hover {
     main{
         flex-direction: column;
         width: 90%;
-        height: 50%;
+        height: 50dvh;
+        min-height: 50%;
     }
 
     img {
