@@ -23,10 +23,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop view
-![desktop view screenshot](./my-design/desktop-view.png)
+![desktop view screenshot](./my-design/desktop-view2.png)
 
 Mobile view
-![mobile view screenshot](./my-design/mobile-view.png)
+![mobile view screenshot](./my-design/mobile-view2.png)
 
 ## My process
 
