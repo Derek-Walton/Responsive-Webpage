@@ -45,7 +45,7 @@ Using media queries to accomodate for different screen sizes and adjust content 
     main{
         flex-direction: column;
         width: 90%;
-        height: 70%;
+        height: 50%;
     }
 }
 ```
