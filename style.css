@@ -105,8 +105,8 @@ button:hover {
     main{
         flex-direction: column;
         width: 90%;
-        height: 50dvh;
         min-height: 50%;
+        max-height: 70%;
     }
 
     img {
@@ -117,5 +117,6 @@ button:hover {
 
     .product-info {
         height: 100%;
+        flex-grow: 1;
     }
 }
